@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ChatAppTutorial-master.iml" filepath="$PROJECT_DIR$/ChatAppTutorial-master.iml" group="ChatAppTutorial-master" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="ChatAppTutorial-master/app" />
+    </modules>
+  </component>
+</project>
